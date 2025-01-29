@@ -1,5 +1,5 @@
 {
-    "name": "rzekanet/service-akismet",
+    "name": "timepad/akismet-api",
     "description": "Small library to access Akismet API",
     "homepage": "https://github.com/rzekanet/Service-Akismet",
     "license": "MIT",
